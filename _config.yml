@@ -1,0 +1,14 @@
+name: Sirius
+layout_spectrum: 0.06600019945436975
+typography_spectrum: 0.10619663089629616
+color:
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  brandStrength: 0.5206472984862854
+  lightness: 0.7336960047500997
+  saturation: 0.43520345225497425
+  rhythmicContrast: 0.9690900710281615
